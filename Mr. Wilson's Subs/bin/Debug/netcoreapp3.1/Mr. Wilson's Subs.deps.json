@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mr. Wilson's Subs/1.0.0": {
+        "runtime": {
+          "Mr. Wilson's Subs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mr. Wilson's Subs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

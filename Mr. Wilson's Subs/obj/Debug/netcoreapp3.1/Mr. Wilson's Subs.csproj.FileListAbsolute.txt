@@ -1,0 +1,19 @@
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\bin\Debug\netcoreapp3.1\Mr. Wilson's Subs.exe
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\bin\Debug\netcoreapp3.1\Mr. Wilson's Subs.deps.json
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\bin\Debug\netcoreapp3.1\Mr. Wilson's Subs.runtimeconfig.json
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\bin\Debug\netcoreapp3.1\Mr. Wilson's Subs.runtimeconfig.dev.json
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\bin\Debug\netcoreapp3.1\Mr. Wilson's Subs.dll
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\bin\Debug\netcoreapp3.1\Mr. Wilson's Subs.pdb
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\obj\Debug\netcoreapp3.1\Mr. Wilson's Subs.csprojAssemblyReference.cache
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\obj\Debug\netcoreapp3.1\Mr. Wilson's Subs_MarkupCompile.cache
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\obj\Debug\netcoreapp3.1\Mr. Wilson's Subs_MarkupCompile.lref
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\obj\Debug\netcoreapp3.1\Mr. Wilson's Subs.g.resources
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\obj\Debug\netcoreapp3.1\Mr. Wilson's Subs.AssemblyInfoInputs.cache
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\obj\Debug\netcoreapp3.1\Mr. Wilson's Subs.AssemblyInfo.cs
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\obj\Debug\netcoreapp3.1\Mr. Wilson's Subs.csproj.CoreCompileInputs.cache
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\obj\Debug\netcoreapp3.1\Mr. Wilson's Subs.dll
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\obj\Debug\netcoreapp3.1\Mr. Wilson's Subs.pdb
+C:\Users\deade\Documents\GitHub\cs_asp_013mrwilsonsubs-Jase-C\Mr. Wilson's Subs\obj\Debug\netcoreapp3.1\Mr. Wilson's Subs.genruntimeconfig.cache
