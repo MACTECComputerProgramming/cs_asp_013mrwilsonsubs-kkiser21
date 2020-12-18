@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deade\\Documents\\GitHub\\cs_asp_013mrwilsonsubs-Jase-C\\Mr. Wilson's Subs\\Mr. Wilson's Subs.csproj",
+      "projectUniqueName": "C:\\Users\\deade\\Documents\\GitHub\\cs_asp_013mrwilsonsubs-kkiser21\\Mr. Wilson's Subs\\Mr. Wilson's Subs.csproj",
       "projectName": "Mr. Wilson's Subs",
-      "projectPath": "C:\\Users\\deade\\Documents\\GitHub\\cs_asp_013mrwilsonsubs-Jase-C\\Mr. Wilson's Subs\\Mr. Wilson's Subs.csproj",
+      "projectPath": "C:\\Users\\deade\\Documents\\GitHub\\cs_asp_013mrwilsonsubs-kkiser21\\Mr. Wilson's Subs\\Mr. Wilson's Subs.csproj",
       "packagesPath": "C:\\Users\\deade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deade\\Documents\\GitHub\\cs_asp_013mrwilsonsubs-Jase-C\\Mr. Wilson's Subs\\obj\\",
+      "outputPath": "C:\\Users\\deade\\Documents\\GitHub\\cs_asp_013mrwilsonsubs-kkiser21\\Mr. Wilson's Subs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deade\\AppData\\Roaming\\NuGet\\NuGet.Config",
